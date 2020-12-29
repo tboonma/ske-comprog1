@@ -1,0 +1,111 @@
+Name:				Studen ID:
+
+219114/115 Programming I
+
+Midterm Examination Report
+
+29 September 2020
+
+L1.py
+
+Do you complete it 100% according to the problem specification?
+
+
+
+
+Attach screenshots showing your source code together with your run result:
+
+
+
+
+
+
+
+
+
+
+If you cannot complete the problem, please explain what kind of bugs or difficulties you encounter:
+
+
+
+
+Attach screenshots showing your source code together with the error messages below:
+
+
+
+
+
+
+
+
+
+
+L2.py
+
+Do you complete it 100% according to the problem specification?
+
+
+
+
+Attach screenshots showing your source code together with your run result:
+
+
+
+
+
+
+
+
+
+
+If you cannot complete the problem, please explain what kind of bugs or difficulties you encounter:
+
+
+
+
+Attach screenshots showing your source code together with the error messages below:
+
+
+
+
+
+
+
+
+
+
+
+L3.py
+
+Do you complete it 100% according to the problem specification?
+
+
+
+
+Attach screenshots showing your source code together with your run result:
+
+
+
+
+
+
+
+
+
+
+If you cannot complete the problem, please explain what kind of bugs or difficulties you encounter:
+
+
+
+
+Attach screenshots showing your source code together with the error messages below:
+
+
+
+
+
+
+
+
+
+
