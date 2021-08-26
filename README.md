@@ -3,4 +3,3 @@
 ### Software and Knowledge Engineering student
 Proposal & Solution in semester 1/2563    
 **Note**: some solution may not completely correct.
-
